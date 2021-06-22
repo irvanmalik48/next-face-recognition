@@ -1,2 +1,5 @@
-# next-face-recognition
-Face recognition webapp made from Next.js and Typescript
+# Face Recognition App
+This is a face recognition app made with Javascript and Next.js.
+
+# Preview
+[Preview here.]()
